@@ -1,0 +1,38 @@
+@media screen and (max-width: 768px) {
+    /* Header */
+    .header-background {
+        padding-top: 10vh;
+    }
+    .header-textbox {
+        display: block;
+        margin: auto;
+        max-width: 90%;
+    }
+
+    /* section 1 */
+    .sec1 {
+        display: block;
+    }
+    .sec1-p1, .sec1-p2 {
+        width: 90%;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+    }
+
+    .h2-especial-sec2 {
+
+        font-size: 4rem;
+    }
+
+
+    .sec-5 {
+        background-position-x: right;
+    }
+    .h2-especial-sec5 {
+        padding-top: 25%;
+        font-size: 3em;
+    }
+    .sec6-h2 {
+        font-size: 1rem;
+    }
+}
